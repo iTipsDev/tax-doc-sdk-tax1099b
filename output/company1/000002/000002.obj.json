@@ -1,0 +1,105 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "77-352-7578",
+  "taxFormId" : "3200292",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0757841",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Emmerich, King and Barrows"
+    },
+    "address" : {
+      "line1" : "094 Billi Stravenue",
+      "city" : "Watsicafurt",
+      "region" : "IL",
+      "postalCode" : "61530"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "marla.green@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-80-2617",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Oren",
+      "last" : "Wisoky"
+    },
+    "address" : {
+      "line1" : "9309 Morissette Point",
+      "city" : "Howeburgh",
+      "region" : "ME",
+      "postalCode" : "35887"
+    },
+    "email" : "isaura.murray@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "252-84711-5",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 800,
+      "taxId" : "60-938407",
+      "income" : 900
+    },
+    "local" : {
+      "taxWithheld" : 1000,
+      "localityName" : "East Valery",
+      "income" : 1100
+    }
+  } ],
+  "federalTaxWithheld" : 200,
+  "profitOnClosedContracts" : 300,
+  "unrealizedProfitOpenContractsBegin" : 400,
+  "unrealizedProfitOpenContractsEnd" : 500,
+  "aggregateProfitOnContracts" : 600,
+  "bartering" : 700,
+  "securityDetails" : [ {
+    "checkboxOnForm8949" : "J",
+    "securityName" : "securityName",
+    "numberOfShares" : 1200,
+    "saleDescription" : "saleDescription",
+    "dateAcquired" : "2025-09-22",
+    "variousDatesAcquired" : true,
+    "dateOfSale" : "2025-12-23",
+    "salesPrice" : 1300,
+    "accruedMarketDiscount" : 1400,
+    "adjustmentCodes" : [ {
+      "code" : "Z",
+      "amount" : 1900
+    } ],
+    "costBasis" : 1500,
+    "correctedCostBasis" : 1600,
+    "washSaleLossDisallowed" : 1700,
+    "longOrShort" : "LONG",
+    "ordinary" : true,
+    "collectible" : true,
+    "qof" : true,
+    "federalTaxWithheld" : 1800,
+    "noncoveredSecurity" : true,
+    "grossOrNet" : "GROSS",
+    "lossNotAllowed" : true,
+    "basisReported" : true,
+    "stateAndLocal" : [ {
+      "stateCode" : "AA",
+      "state" : {
+        "taxWithheld" : 2000,
+        "taxId" : "15-149689",
+        "income" : 2100
+      },
+      "local" : {
+        "taxWithheld" : 2200,
+        "localityName" : "Ahmadland",
+        "income" : 2300
+      }
+    } ],
+    "cusip" : "CUSCKQUAI",
+    "foreignAccountTaxCompliance" : true,
+    "expiredOption" : "GRANTED",
+    "investmentSaleType" : "CRYPTOCURRENCY"
+  } ],
+  "secondTinNotice" : true
+}
