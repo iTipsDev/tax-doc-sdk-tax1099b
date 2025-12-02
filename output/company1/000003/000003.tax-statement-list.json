@@ -1,0 +1,201 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1099B" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "64-598-5477",
+        "issuer" : {
+          "tin" : "00-0649575",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Feest Inc"
+          },
+          "address" : {
+            "line1" : "57402 Glover Stream",
+            "city" : "Lake Ernesto",
+            "region" : "OK",
+            "postalCode" : "23880"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "merlin.cormier@hotmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-50-9938",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Ezra",
+            "last" : "Nitzsche"
+          },
+          "address" : {
+            "line1" : "05167 Shane Coves",
+            "city" : "Cummerataton",
+            "region" : "ID",
+            "postalCode" : "36053"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "ronnie.mraz@hotmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "accountNumber" : "583-04070-2",
+        "stateAndLocal" : [ {
+          "stateCode" : "AA",
+          "state" : {
+            "taxWithheld" : 800,
+            "taxId" : "71-912296",
+            "income" : 900
+          },
+          "local" : {
+            "taxWithheld" : 1000,
+            "localityName" : "South Jeroldberg",
+            "income" : 1100
+          }
+        } ],
+        "federalTaxWithheld" : 200,
+        "profitOnClosedContracts" : 300,
+        "unrealizedProfitOpenContractsBegin" : 400,
+        "unrealizedProfitOpenContractsEnd" : 500,
+        "aggregateProfitOnContracts" : 600,
+        "bartering" : 700,
+        "securityDetails" : [ {
+          "checkboxOnForm8949" : "checkboxOnForm8949",
+          "securityName" : "securityName",
+          "numberOfShares" : 1200,
+          "saleDescription" : "saleDescription",
+          "variousDatesAcquired" : true,
+          "salesPrice" : 1300,
+          "accruedMarketDiscount" : 1400,
+          "adjustmentCodes" : [ {
+            "code" : "R",
+            "amount" : 1900
+          } ],
+          "costBasis" : 1500,
+          "correctedCostBasis" : 1600,
+          "washSaleLossDisallowed" : 1700,
+          "longOrShort" : "LONG",
+          "ordinary" : true,
+          "collectible" : true,
+          "qof" : true,
+          "federalTaxWithheld" : 1800,
+          "noncoveredSecurity" : true,
+          "grossOrNet" : "GROSS",
+          "lossNotAllowed" : true,
+          "basisReported" : true,
+          "stateAndLocal" : [ {
+            "stateCode" : "AA",
+            "state" : {
+              "taxWithheld" : 2000,
+              "taxId" : "80-100603",
+              "income" : 2100
+            },
+            "local" : {
+              "taxWithheld" : 2200,
+              "localityName" : "East Greggton",
+              "income" : 2300
+            }
+          } ],
+          "cusip" : "cusip",
+          "foreignAccountTaxCompliance" : true,
+          "expiredOption" : "GRANTED",
+          "investmentSaleType" : "CRYPTOCURRENCY"
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        }, {
+          "variousDatesAcquired" : false,
+          "adjustmentCodes" : [ ],
+          "ordinary" : false,
+          "collectible" : false,
+          "qof" : false,
+          "noncoveredSecurity" : false,
+          "lossNotAllowed" : false,
+          "basisReported" : false,
+          "stateAndLocal" : [ ],
+          "foreignAccountTaxCompliance" : false
+        } ],
+        "secondTinNotice" : true
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}
