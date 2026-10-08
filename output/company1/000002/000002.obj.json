@@ -1,0 +1,117 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "34-368-3431",
+  "taxFormId" : "8682420",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0269193",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Gutmann-Kreiger"
+    },
+    "address" : {
+      "line1" : "3003 Tana Mount",
+      "city" : "Trompmouth",
+      "region" : "CA",
+      "postalCode" : "06062",
+      "unitType" : "Apt",
+      "unitNumber" : "076"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "reyes.schroeder@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-18-3626",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Kennith",
+      "middle" : "Shandra",
+      "last" : "Rodriguez"
+    },
+    "businessName" : {
+      "name1" : "Nicolas-Russel"
+    },
+    "address" : {
+      "line1" : "19239 Krystle Unions",
+      "city" : "Chanellview",
+      "region" : "AZ",
+      "postalCode" : "99595",
+      "unitType" : "Apt",
+      "unitNumber" : "494"
+    },
+    "email" : "celesta.bruen@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "804-78879-3",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 800,
+      "taxId" : "17-492556",
+      "income" : 900
+    },
+    "local" : {
+      "taxWithheld" : 1000,
+      "localityName" : "Ernserside",
+      "income" : 1100
+    }
+  } ],
+  "federalTaxWithheld" : 200,
+  "profitOnClosedContracts" : 300,
+  "unrealizedProfitOpenContractsBegin" : 400,
+  "unrealizedProfitOpenContractsEnd" : 500,
+  "aggregateProfitOnContracts" : 600,
+  "bartering" : 700,
+  "securityDetails" : [ {
+    "multiple" : true,
+    "incomplete" : true,
+    "exception1" : true,
+    "taxStatementId" : "taxStatementId",
+    "cusip" : "LPJSXIOPD",
+    "checkboxOnForm8949" : "Y",
+    "securityName" : "securityName",
+    "numberOfShares" : 1200,
+    "saleDescription" : "100 sh. XYZ Co.",
+    "dateAcquired" : "2026-03-05",
+    "variousDatesAcquired" : true,
+    "dateOfSale" : "2026-06-28",
+    "salesPrice" : 1300,
+    "accruedMarketDiscount" : 1400,
+    "adjustmentCodes" : [ {
+      "code" : "G",
+      "amount" : 1900
+    } ],
+    "costBasis" : 1500,
+    "correctedCostBasis" : 1600,
+    "washSaleLossDisallowed" : 1700,
+    "longOrShort" : "LONG",
+    "ordinary" : true,
+    "collectible" : true,
+    "qof" : true,
+    "federalTaxWithheld" : 1800,
+    "noncoveredSecurity" : true,
+    "grossOrNet" : "GROSS",
+    "lossNotAllowed" : true,
+    "basisReported" : true,
+    "stateAndLocal" : [ {
+      "stateCode" : "AA",
+      "state" : {
+        "taxWithheld" : 2000,
+        "taxId" : "86-927458",
+        "income" : 2100
+      },
+      "local" : {
+        "taxWithheld" : 2200,
+        "localityName" : "Nereidaport",
+        "income" : 2300
+      }
+    } ],
+    "foreignAccountTaxCompliance" : true,
+    "expiredOption" : "GRANTED",
+    "investmentSaleType" : "CRYPTOCURRENCY"
+  } ],
+  "secondTinNotice" : true
+}

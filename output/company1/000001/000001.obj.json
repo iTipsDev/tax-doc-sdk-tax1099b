@@ -1,0 +1,117 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "51-314-1203",
+  "taxFormId" : "7723354",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0269193",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Gutmann-Kreiger"
+    },
+    "address" : {
+      "line1" : "3003 Tana Mount",
+      "city" : "Trompmouth",
+      "region" : "CA",
+      "postalCode" : "06062",
+      "unitType" : "Apt",
+      "unitNumber" : "076"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "reyes.schroeder@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-76-6986",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Ruth",
+      "middle" : "Jillian",
+      "last" : "Kerluke"
+    },
+    "businessName" : {
+      "name1" : "Monahan, Simonis and Cronin"
+    },
+    "address" : {
+      "line1" : "575 Jones Course",
+      "city" : "Donnellshire",
+      "region" : "SC",
+      "postalCode" : "14316",
+      "unitType" : "Apt",
+      "unitNumber" : "878"
+    },
+    "email" : "odilia.heidenreich@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "159-45289-4",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 800,
+      "taxId" : "44-572517",
+      "income" : 900
+    },
+    "local" : {
+      "taxWithheld" : 1000,
+      "localityName" : "North Derek",
+      "income" : 1100
+    }
+  } ],
+  "federalTaxWithheld" : 200,
+  "profitOnClosedContracts" : 300,
+  "unrealizedProfitOpenContractsBegin" : 400,
+  "unrealizedProfitOpenContractsEnd" : 500,
+  "aggregateProfitOnContracts" : 600,
+  "bartering" : 700,
+  "securityDetails" : [ {
+    "multiple" : true,
+    "incomplete" : true,
+    "exception1" : true,
+    "taxStatementId" : "taxStatementId",
+    "cusip" : "OA8RZ0B9X",
+    "checkboxOnForm8949" : "G",
+    "securityName" : "securityName",
+    "numberOfShares" : 1200,
+    "saleDescription" : "100 sh. XYZ Co.",
+    "dateAcquired" : "2026-12-12",
+    "variousDatesAcquired" : true,
+    "dateOfSale" : "2026-11-16",
+    "salesPrice" : 1300,
+    "accruedMarketDiscount" : 1400,
+    "adjustmentCodes" : [ {
+      "code" : "D",
+      "amount" : 1900
+    } ],
+    "costBasis" : 1500,
+    "correctedCostBasis" : 1600,
+    "washSaleLossDisallowed" : 1700,
+    "longOrShort" : "LONG",
+    "ordinary" : true,
+    "collectible" : true,
+    "qof" : true,
+    "federalTaxWithheld" : 1800,
+    "noncoveredSecurity" : true,
+    "grossOrNet" : "GROSS",
+    "lossNotAllowed" : true,
+    "basisReported" : true,
+    "stateAndLocal" : [ {
+      "stateCode" : "AA",
+      "state" : {
+        "taxWithheld" : 2000,
+        "taxId" : "57-161293",
+        "income" : 2100
+      },
+      "local" : {
+        "taxWithheld" : 2200,
+        "localityName" : "West Eugenioland",
+        "income" : 2300
+      }
+    } ],
+    "foreignAccountTaxCompliance" : true,
+    "expiredOption" : "GRANTED",
+    "investmentSaleType" : "CRYPTOCURRENCY"
+  } ],
+  "secondTinNotice" : true
+}
